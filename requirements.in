@@ -1,3 +1,4 @@
+autopep8
 black
 earthengine-api
 gdal
@@ -11,3 +12,8 @@ pre-commit
 pytest
 rasterio
 rasterstats
+folium
+fiona
+matplotlib
+seaborn
+mapclassify
